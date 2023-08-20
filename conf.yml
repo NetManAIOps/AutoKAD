@@ -1,0 +1,3 @@
+device: "cuda:0"
+train_kpi_path: "/root/AutoKAD/train/c69a50cf-ee03-3bd7-831e-407d36c7ee91.csv"
+test_kpi_path: "/root/AutoKAD/test/c69a50cf-ee03-3bd7-831e-407d36c7ee91.csv"
